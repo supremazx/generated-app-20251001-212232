@@ -1,6 +1,6 @@
 # EdgeDialer: FusionPBX Auto Dialer Panel
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/supremazx/generated-app-20251001-212214)
 
 EdgeDialer is a visually stunning, high-performance, and intuitive web-based control panel for managing auto-dialing campaigns on a FusionPBX system. Built with a modern tech stack and running on Cloudflare's edge network, it provides a seamless and responsive user experience. The application features a real-time dashboard with key performance indicators, comprehensive campaign management, agent status monitoring, and call list administration. Every component is meticulously designed for clarity, efficiency, and aesthetic appeal, transforming a complex workflow into a delightful user experience.
 
@@ -89,4 +89,4 @@ This application is designed to be deployed to Cloudflare's global network.
 
 Alternatively, you can deploy directly from your GitHub repository using the button below.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/supremazx/generated-app-20251001-212214)
